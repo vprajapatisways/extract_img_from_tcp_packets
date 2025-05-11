@@ -1,0 +1,11 @@
+for windows:--
+Download python 
+https://www.python.org/downloads
+Then
+open cmd > type pip install scapy
+Then download a tool which create a that frames into a vdeio
+https://www.gyan.dev/ffmpeg/builds
+Then 
+.pcap file and sec.py file both file are must present on same folder 
+then run open cmd and type
+pyhton sec.py
